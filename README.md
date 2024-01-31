@@ -11,3 +11,4 @@ npm create convex@latest -- -t get-convex/ai-workshop
 ```
 # aiworkshop2
 # aiworkshop
+# aiworkshop
