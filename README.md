@@ -9,3 +9,4 @@ See Convex docs at https://docs.convex.dev/home
 ```
 npm create convex@latest -- -t get-convex/ai-workshop
 ```
+# aiworkshop2
